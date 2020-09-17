@@ -1,17 +1,17 @@
 dependencies:
 - name: revad
-  version: "1.2.0"
-  repository: "https://cs3org.github.io/charts"
+  version: "1.2.4"
+  repository: "https://samualfageme.github.io/charts"
   alias: gateway
   condition: gateway.enabled
 - name: revad
-  version: "1.2.0"
-  repository: "https://cs3org.github.io/charts"
+  version: "1.2.4"
+  repository: "https://samualfageme.github.io/charts"
   alias: storageprovider-home
   condition: storageprovider-home.enabled
 - name: revad
-  version: "1.2.0"
-  repository: "https://cs3org.github.io/charts"
+  version: "1.2.4"
+  repository: "https://samualfageme.github.io/charts"
   alias: storageprovider-reva
   condition: storageprovider-reva.enabled
 - name: wopiserver
